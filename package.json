@@ -1,0 +1,18 @@
+{
+  "name": "display-overrides-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "plist": "^1.2.0",
+    "plist-native": "^0.4.1",
+    "shelljs": "^0.5.3",
+    "yargs": "^3.31.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
